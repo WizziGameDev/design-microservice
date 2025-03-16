@@ -131,10 +131,13 @@
           <mxGeometry x="275" y="480" width="815" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VyeaLTXF4dzLQbILJjxC-55" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Grafana.svg;" vertex="1" parent="VyeaLTXF4dzLQbILJjxC-53">
-          <mxGeometry x="325.55" y="23.6" width="68" height="52.800000000000004" as="geometry" />
+          <mxGeometry x="377.1" y="23.900000000000002" width="68" height="52.800000000000004" as="geometry" />
         </mxCell>
         <mxCell id="VyeaLTXF4dzLQbILJjxC-56" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.prometheus;" vertex="1" parent="VyeaLTXF4dzLQbILJjxC-53">
-          <mxGeometry x="430" y="23.6" width="48.9" height="48.9" as="geometry" />
+          <mxGeometry x="481.55" y="23.900000000000002" width="48.9" height="48.9" as="geometry" />
+        </mxCell>
+        <mxCell id="VyeaLTXF4dzLQbILJjxC-62" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.performance" vertex="1" parent="VyeaLTXF4dzLQbILJjxC-53">
+          <mxGeometry x="284.55" y="23.3" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
