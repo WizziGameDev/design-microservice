@@ -94,6 +94,21 @@
         <mxCell id="VyeaLTXF4dzLQbILJjxC-42" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.kafka;" vertex="1" parent="VyeaLTXF4dzLQbILJjxC-58">
           <mxGeometry x="359.25" y="166.25" width="56.699999999999996" height="42" as="geometry" />
         </mxCell>
+        <mxCell id="VyeaLTXF4dzLQbILJjxC-63" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="VyeaLTXF4dzLQbILJjxC-58">
+          <mxGeometry x="182.25" y="293.5" width="38.99" height="32.75" as="geometry" />
+        </mxCell>
+        <mxCell id="VyeaLTXF4dzLQbILJjxC-64" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="VyeaLTXF4dzLQbILJjxC-58">
+          <mxGeometry x="462.25" y="293.5" width="38.99" height="32.75" as="geometry" />
+        </mxCell>
+        <mxCell id="VyeaLTXF4dzLQbILJjxC-65" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="VyeaLTXF4dzLQbILJjxC-58">
+          <mxGeometry x="335" y="22" width="38.99" height="32.75" as="geometry" />
+        </mxCell>
+        <mxCell id="VyeaLTXF4dzLQbILJjxC-66" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="VyeaLTXF4dzLQbILJjxC-58">
+          <mxGeometry x="685" y="22" width="38.99" height="32.75" as="geometry" />
+        </mxCell>
+        <mxCell id="VyeaLTXF4dzLQbILJjxC-67" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="VyeaLTXF4dzLQbILJjxC-58">
+          <mxGeometry x="136.76" y="24.75" width="38.99" height="32.75" as="geometry" />
+        </mxCell>
         <mxCell id="VyeaLTXF4dzLQbILJjxC-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry y="265" width="30" height="60" as="geometry" />
         </mxCell>
